@@ -1,0 +1,351 @@
+Villanova	1
+Kansas	2
+N Carolina	3
+Virginia	4
+Oklahoma	5
+Xavier	6
+Michigan St	7
+Oregon	8
+Miami (FL)	9
+W Virginia	10
+Louisville	11
+Seton Hall	12
+Indiana	13
+Kentucky	14
+Duke	15
+Utah	16
+Iowa State	17
+Maryland	18
+Purdue	19
+Notre Dame	20
+Arizona	21
+S Methodist	22
+Texas A&amp;M	23
+Baylor	24
+Butler	25
+Iowa	26
+Providence	27
+Gonzaga	28
+California	29
+St Josephs	30
+Syracuse	31
+Texas	32
+Wisconsin	33
+Wichita St	34
+Connecticut	35
+Pittsburgh	36
+VCU	37
+GA Tech	38
+Geo Wshgtn	39
+Texas Tech	40
+Michigan	41
+St Marys	42
+Dayton	43
+VA Tech	44
+AR Lit Rock	45
+Colorado	46
+Cincinnati	47
+Florida St	48
+Valparaiso	49
+San Diego St	50
+Hawaii	51
+Yale	52
+Florida	53
+USC	54
+Ste F Austin	55
+Creighton	56
+Oregon St	57
+Vanderbilt	58
+S Carolina	59
+Clemson	60
+Kansas St	61
+Temple	62
+Ohio State	63
+Marquette	64
+Georgia	65
+Washington	66
+NC-Wilmgton	67
+BYU	68
+Tulsa	69
+St Bonavent	70
+Princeton	71
+Northwestern	72
+Alabama	73
+Houston	74
+N Iowa	75
+LSU	76
+Hofstra	77
+Chattanooga	78
+Mississippi	79
+Georgetown	80
+S Dakota St	81
+Stanford	82
+UC Irvine	83
+Evansville	84
+Monmouth	85
+Fresno St	86
+NC State	87
+Akron	88
+Davidson	89
+UCLA	90
+Stony Brook	91
+Arizona St	92
+Arkansas	93
+Oakland	94
+Lg Beach St	95
+Wm &amp; Mary	96
+UAB	97
+Middle Tenn	98
+James Mad	99
+Boise State	100
+Memphis	101
+Rhode Island	102
+IPFW	103
+Nebraska	104
+Iona	105
+Richmond	106
+Penn State	107
+Miss State	108
+UCSB	109
+Tennessee	110
+Columbia	111
+Old Dominion	112
+Oklahoma St	113
+Illinois	114
+WI-Grn Bay	115
+Grd Canyon	116
+Nevada	117
+CS Bakersfld	118
+Buffalo	119
+S Illinois	120
+Wake Forest	121
+TX-Arlington	122
+UNLV	123
+N Mex State	124
+Ohio	125
+Illinois St	126
+E Tenn St	127
+Morehead St	128
+Northeastrn	129
+New Mexico	130
+TX Christian	131
+Belmont	132
+LA Monroe	133
+TX A&amp;M-CC	134
+Col Charlestn	135
+Albany	136
+NC-Asheville	137
+Wright State	138
+Towson	139
+Weber State	140
+Winthrop	141
+Utah State	142
+LA Lafayette	143
+WI-Milwkee	144
+N Dakota St	145
+Vermont	146
+Pepperdine	147
+E Michigan	148
+Siena	149
+LA Tech	150
+Duquesne	151
+Marshall	152
+Kent State	153
+Colorado St	154
+U Mass	155
+Fordham	156
+Neb Omaha	157
+High Point	158
+N Illinois	159
+Auburn	160
+Ball State	161
+Toledo	162
+Indiana St	163
+Coastal Car	164
+Elon	165
+DePaul	166
+Montana	167
+TN Tech	168
+TN State	169
+N Florida	170
+W Kentucky	171
+Missouri	172
+Oral Roberts	173
+Central Mich	174
+Detroit	175
+Murray St	176
+Wyoming	177
+Furman	178
+W Carolina	179
+Denver	180
+Geo Mason	181
+Central FL	182
+IUPUI	183
+Georgia St	184
+Loyola-Chi	185
+TN Martin	186
+Mercer	187
+W Michigan	188
+Wofford	189
+Wash State	190
+Wagner	191
+Fairfield	192
+NJIT	193
+Harvard	194
+N Hampshire	195
+Fla Gulf Cst	196
+Lehigh	197
+Saint Louis	198
+Bucknell	199
+South Dakota	200
+Austin Peay	201
+E Carolina	202
+Bowling Grn	203
+Air Force	204
+Miami (OH)	205
+Missouri St	206
+Charlotte	207
+TX Southern	208
+Hampton	209
+Minnesota	210
+San Fransco	211
+Boston U	212
+Radford	213
+TX El Paso	214
+Idaho	215
+Tulane	216
+Loyola Mymt	217
+Navy	218
+E Kentucky	219
+Texas State	220
+La Salle	221
+GA Southern	222
+NC-Grnsboro	223
+Gard-Webb	224
+St Johns	225
+Army	226
+E Washingtn	227
+Incar Word	228
+North Dakota	229
+St Peters	230
+S Alabama	231
+S Florida	232
+Cal Poly	233
+Boston Col	234
+Southern	235
+Santa Clara	236
+S Car State	237
+Portland	238
+UC Riverside	239
+Samford	240
+Sam Hous St	241
+Canisius	242
+W Illinois	243
+Drexel	244
+Manhattan	245
+Colgate	246
+Norfolk St	247
+Jackson St	248
+Cal St Nrdge	249
+F Dickinson	250
+UC Davis	251
+E Illinois	252
+Rider	253
+U Penn	254
+App State	255
+Kennesaw St	256
+Holy Cross	257
+Florida Intl	258
+San Jose St	259
+Pacific	260
+Jacksonville	261
+Montana St	262
+American	263
+Arkansas St	264
+Liberty	265
+Idaho State	266
+Dartmouth	267
+San Diego	268
+Cornell	269
+Lipscomb	270
+Delaware	271
+Mt St Marys	272
+Rice	273
+CS Fullerton	274
+Youngs St	275
+Sac State	276
+Portland St	277
+Rutgers	278
+St Fran (NY)	279
+Houston Bap	280
+LIU-Brooklyn	281
+UMKC	282
+Cleveland St	283
+Seattle	284
+N Kentucky	285
+North Texas	286
+Troy	287
+Alcorn State	288
+Stetson	289
+Drake	290
+Loyola-MD	291
+Alabama St	292
+St Fran (PA)	293
+VA Military	294
+Savannah St	295
+Mass Lowell	296
+Sacred Hrt	297
+Campbell	298
+Utah Val St	299
+S Mississippi	300
+Brown	301
+Beth-Cook	302
+Fla Atlantic	303
+Presbyterian	304
+Longwood	305
+Quinnipiac	306
+Rob Morris	307
+Citadel	308
+Charl South	309
+N Colorado	310
+SC Upstate	311
+SIU Edward	312
+Marist	313
+Hartford	314
+Binghamton	315
+Bradley	316
+NC Central	317
+Jksnville St	318
+Alab A&amp;M	319
+Abl Christian	320
+Maryland ES	321
+Niagara	322
+Lafayette	323
+Morgan St	324
+Howard	325
+Maine	326
+Maryland BC	327
+SE Louisiana	328
+NC A&amp;T	329
+IL-Chicago	330
+Coppin State	331
+Prairie View	332
+Miss Val St	333
+Nicholls St	334
+Ark Pine Bl	335
+New Orleans	336
+Bryant	337
+Lamar	338
+SE Missouri	339
+McNeese St	340
+Central Ark	341
+TX-Pan Am	342
+NW State	343
+TX-San Ant	344
+S Utah	345
+N Arizona	346
+Delaware St	347
+Florida A&amp;M	348
+Grambling St	349
+Central Conn	350
+Chicago St	351
